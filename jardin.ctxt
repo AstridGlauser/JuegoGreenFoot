@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=jardin
+comment0.text=\r\n\ \r\n
+comment1.params=
+comment1.target=jardin()
+comment2.params=numero
+comment2.target=void\ crearPajaros(int)
+comment3.params=numero
+comment3.target=void\ crearEnergia(int)
+numComments=4

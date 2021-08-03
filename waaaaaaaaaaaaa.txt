@@ -1,0 +1,10 @@
+     List<Object> rocas=getObjectsInRange(200,roca.class);
+        Iterator it=rocas.iterator();
+        if(it.hasNext())
+        {
+            roca r=(roca)it.next();
+            if(r!=null)
+            {
+                turnTowards(r.getX(),r.getY());
+            }
+        }
